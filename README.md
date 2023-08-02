@@ -68,7 +68,7 @@ Contributions to CoinBuddy are welcome! If you find any bugs or have ideas for i
 If you have any questions or would like to connect, you can reach me at:
 
 - Email: reachsolutionsofficial@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/umair-amjad-595811274/)
+- LinkedIn: [Umair Amjad](https://www.linkedin.com/in/umair-amjad-595811274/)
 
 Let's connect and make the world of cryptocurrencies even more exciting with CoinBuddy! Happy coding!
 
