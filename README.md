@@ -1,20 +1,42 @@
-# React Website Tutorial: ⭐Build Feature Rich Crypto Screener App with Tailwind CSS
+# CoinBuddy crypto web application built using React Js & Tailwind CSS
 
-![GitHub stars](https://img.shields.io/github/stars/codebucks27/CryptoBucks-A-crypto-screener-application?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
-![GitHub forks](https://img.shields.io/github/forks/codebucks27/CryptoBucks-A-crypto-screener-application?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
-![Github Followers](https://img.shields.io/github/followers/codebucks27.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
+Welcome to CoinBuddy, your go-to web application for real-time data on all cryptocurrencies! Developed using React Js and Tailwind CSS, CoinBuddy brings you the latest market information for cryptocurrencies from the CoinGecko API. Whether you're a crypto enthusiast, investor, or trader, CoinBuddy has got you covered with its user-friendly interface and exciting features.
 
-This repository contains starter code for Crypto Screener Application in ReactJS. <br />
+## Live Demo
 
-For Demo and Final Code checkout following link👇: <br />
-[Crypto Screener Application in ReactJS](https://devdreaming.com/videos/build-crypto-screener-app-with-react-tailwind-css) <br />
+Check out the live demo of CoinBuddy: [CoinBuddy Web App](https://coinbuddy-crypto-app.web.app/)
 
-If you want to learn how to create it please follow below tutorial👇: <br />
-https://youtu.be/JPlVb3t6kx8 <br />
-[![YouTube Video Views](https://img.shields.io/youtube/views/JPlVb3t6kx8?style=social)](https://youtu.be/cT160dOzpGY)<br />
+## Features
 
-<h3 align="left">▶ Support me via:</h3><br />
-<p><a href="https://www.buymeacoffee.com/CodeBucks" target="_blank"> <img  src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="210" alt="CodeBucks" ></img></a></p><br />
+- **Real-Time Data:** Experience up-to-the-minute data for all cryptocurrencies, including market volume, market cap, and price changes, right at your fingertips.
+
+- **Search Functionality:** Easily search for your favorite coins and access detailed information with just a simple search.
+
+- **Sort and Filter:** Customize your viewing experience by sorting and filtering coins based on volume, market cap, and IDs.
+
+- **Currency Conversion:** Change the currency and instantly view prices in your preferred monetary unit for easy global comparisons.
+
+- **Trending Page:** Stay ahead of the trends with the Trending Page, showcasing the hottest and most trending cryptocurrencies.
+
+- **Favorites Management:** Save and manage your favorite coins on the Saved Page for quick access to your most cherished assets.
+
+## How to Use
+
+1. Clone the repository to your local machine:
+    git clone https://github.com/UmairWaraich07/coinbuddy.git
+
+2. Install the necessary dependencies:
+    npm install
+
+3. Start the development server:
+    npm start
+
+4. Access the application in your web browser at `http://localhost:3000`.
+
+## Tech Stack
+
+- React Js - A powerful JavaScript library for building user interfaces.
+- Tailwind CSS - A utility-first CSS framework for rapid and responsive web development.
 
 ### Images of The Crypto Screener Website:
 
@@ -36,6 +58,19 @@ https://youtu.be/JPlVb3t6kx8 <br />
 
 - [Tailwind css](https://tailwindcss.com/) <br />
 - [recharts](https://recharts.org/en-US/) <br />
+
+## Contributions
+
+Contributions to CoinBuddy are welcome! If you find any bugs or have ideas for improvements, please feel free to create an issue or submit a pull request.
+
+## Contact
+
+If you have any questions or would like to connect, you can reach me at:
+
+- Email: reachsolutionsofficial@gmail.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/umair-amjad-595811274/)
+
+Let's connect and make the world of cryptocurrencies even more exciting with CoinBuddy! Happy coding!
 
 
 
